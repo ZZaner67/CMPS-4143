@@ -23,4 +23,4 @@ It tells you who is the best mascot is and what their quote is.
 - Make sure to have rsc.io/sampler downloaded on the PC
 
 To run:
-- Execute "go run main.go" in the terminal
+- Execute `go run main.go` in the terminal
