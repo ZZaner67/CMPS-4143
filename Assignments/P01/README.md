@@ -19,4 +19,8 @@ It tells you who is the best mascot is and what their quote is.
 
 ### Instruction
 
-- Make sure to "go get 
+- Make sure to have rsc.io/quote downloaded on the PC
+- Make sure to have rsc.io/sampler downloaded on the PC
+
+To run:
+- Execute "go run main.go" in the terminal
