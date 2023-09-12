@@ -8,9 +8,9 @@ It tells you who is the best mascot is and what their quote is.
 
 ### Files
 
-|   #   | File    | Description                            |
-| :---: | ------- | -------------------------------------- |
-|   1   | go.mod  | Shows the requirements for the program |
-|   2   | go.sum  | 
+|   #   | File    | Description                             |
+| :---: | ------- | --------------------------------------- |
+|   1   | go.mod  | Shows the requirements for the program  |
+|   2   | go.sum  | Shows what was imported for the program |
 |   3   | go.work | 
 |   4   | main.go | 
