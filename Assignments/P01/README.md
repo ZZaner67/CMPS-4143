@@ -10,7 +10,7 @@ It tells you who is the best mascot is and what their quote is.
 
 |   #   | File           | Description                                                                                                     |
 | :---: | -------------- | --------------------------------------------------------------------------------------------------------------- |
-|   1   | go.mod         | Shows the requirements for the program                                                                          |
+|   1   | [go.mod](https://github.com/ZZaner67/CMPS-4143/blob/main/Assignments/P01/go.mod)         | Shows the requirements for the program                                                                          |
 |   2   | go.sum         | Shows what was imported for the program                                                                         |
 |   3   | go.work        | Allows the use of `"."` in the program so main works                                                              |
 |   4   | main.go        | Main driver that runs all the functions and commands                                                            |
