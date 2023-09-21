@@ -16,8 +16,7 @@ by simply creating a black ractangle on the edge of the image.
 
 ### Instruction
 
-- Make sure to have rsc.io/quote downloaded on the PC
-- Make sure to have rsc.io/sampler downloaded on the PC
+- Simply download and run
 
 To run:
 - Execute `go run main.go` in the terminal
