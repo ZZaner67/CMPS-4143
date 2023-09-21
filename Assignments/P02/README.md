@@ -11,7 +11,7 @@ by simply creating a black ractangle on the edge of the image.
 | :---: | -------------- | --------------------------------------------------------------------------------------------------------------- |
 |   1   | [go.mod](https://github.com/ZZaner67/CMPS-4143/blob/main/Assignments/P02/go.mod)         | Shows the requirements for the program                                                                          |
 |   2   | [go.sum](https://github.com/ZZaner67/CMPS-4143/blob/main/Assignments/P02/go.sum)         | Shows what was imported for the program                                                                         |
-|   3   | [go.work](https://github.com/ZZaner67/CMPS-4143/blob/main/Assignments/P02/imagemod/imageManipulator/imageManipulator.go)        | The package with the functions used to manipulate either a blank image or an existing image.  |
+|   3   | [imageManipulator.go](https://github.com/ZZaner67/CMPS-4143/blob/main/Assignments/P02/imagemod/imageManipulator/imageManipulator.go)        | The package with the functions used to manipulate either a blank image or an existing image.  |
 |   4   | [main.go](https://github.com/ZZaner67/CMPS-4143/blob/main/Assignments/P02/main.go)        | Main driver that runs all the functions and commands                                                            |
 
 ### Instruction
