@@ -1,0 +1,9 @@
+go 1.21.1
+
+use (
+	.
+	./img_manipulator/img_colors
+	./img_manipulator/img_get
+	./img_manipulator/img_gray_scale
+	./img_manipulator/img_text
+)
